@@ -1,6 +1,6 @@
 # 🌦️ React Weather App
 
-A simple and responsive weather app built with **React** and styled using **Tailwind CSS**. It fetches real-time weather data using the **OpenWeatherMap API**.
+A simple and responsive weather app built with **React** and styled using **CSS**. It fetches real-time weather data using the **OpenWeatherMap API**.
 
 ## 🚀 Features
 
